@@ -38,9 +38,7 @@ kikosi-hotel/
 ---
 
 ## 🚀 Live Demo
-🔗 [View Live Site Here](https://your-netlify-link.netlify.app)
-
-> Replace `https://your-netlify-link.netlify.app` with your actual Netlify (or GitHub Pages) deployment link.
+🔗 [View Live Site Here](https://kikosi-hotel.netlify.app/)
 
 ---
 
@@ -48,8 +46,8 @@ kikosi-hotel/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/Ngaukon/kikosi-hotel.git
-cd kikosi-hotel
+git clone https://github.com/Ngaukon/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl.git
+cd plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl
 
 ## 🛠 Technologies Used
 - **HTML5** – Semantic structure
