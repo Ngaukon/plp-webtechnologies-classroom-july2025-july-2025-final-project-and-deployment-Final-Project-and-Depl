@@ -1,90 +1,71 @@
-# 📦 Final Assignment: Build, Organize, and Deploy a Multipage Website
+# Kikosi Hotel 🌍🏨
 
-You're now ready to bring everything together—HTML, CSS, JavaScript, planning, structure, and deployment. This final project challenges you to **conceptualize, build, and deploy a multi-page website** that is responsive, interactive, and ready for the real world.
-
-This assignment will guide you from planning your site all the way to deploying it online. Let’s make your project *production-worthy*! 🚀
-
----
-
-## 🌐🎯 Part 1: Planning and Organizing a Multipage Website
-
-Before you write any code, take time to plan:
-
-* Define your website's purpose (portfolio, product showcase, blog, etc.)
-* Outline 3–5 pages (e.g., Home, About, Services, Contact, Gallery)
-* Sketch or describe the layout of each page
-* Map out internal navigation (how pages link to one another)
-
-**Goal:** Show intentional structure and user journey across the site.
+A responsive hotel landing website for **Kikosi Hotel**, based in Kenya.  
+Built using **HTML5, CSS3, and JavaScript**, the site provides information about the hotel, services, gallery, and contact form.
 
 ---
 
-## 🌍💻 Part 2: Build the Website Using HTML5, CSS, and JavaScript
-
-Using your plan, begin building:
-
-* Use HTML5 for semantic structure
-* Apply CSS for responsive layout, styling, and animations
-* Use JavaScript to add interactivity (menus, forms, toggles, dynamic content)
-
-Each page should:
-
-* Be mobile-responsive
-* Share a consistent layout/header/footer
-* Include at least one interactive element (e.g., form validation, toggle menu, animation on scroll)
-
-**Goal:** Integrate everything you’ve learned in a cohesive, functioning project.
+## 📌 Features
+- 5 main pages:
+  - **Home** – Hero section and intro
+  - **About** – Hotel background and mission
+  - **Services** – List of services (spa, dining, safari tours, etc.)
+  - **Gallery** – Photo showcase
+  - **Contact** – Contact form with validation
+- Responsive design (mobile, tablet, desktop)
+- Interactive mobile menu (toggle navigation)
+- Form validation with JavaScript
+- Consistent header & footer across all pages
+- Easy to extend and maintain
 
 ---
 
-## 🛠️🚀 Part 3: Best Practices for Code Organization
+## 📂 Project Structure
+kikosi-hotel/
+│── index.html
+│── about.html
+│── services.html
+│── gallery.html
+│── contact.html
+│── css/
+│ └── style.css
+│── js/
+│ └── main.js
+│── images/
+│ └── (project images here)
 
-Before deployment, refactor your project to follow production-friendly practices:
-
-* Organize files in folders (`/css`, `/js`, `/images`, etc.)
-* Write clean, modular, and commented code
-* Use meaningful file names and relative paths
-* Validate your HTML/CSS and test on different screen sizes
-
-**Goal:** Prepare your codebase to be readable, maintainable, and scalable.
-
----
-
-## 🌐🚀 Part 4: Introduction to Hosting and Deployment
-
-Once your project is complete, choose a method to **host your site online**.
-
-You can use:
-
-* **GitHub Pages** (great for portfolios and static sites)
-* **Netlify** (powerful CI/CD features and easy form support)
-* **Vercel** (lightning-fast deployment for frontend projects)
-
-Deploy your project and confirm that:
-
-* All links and scripts work
-* It loads properly on mobile and desktop
-* It has a clear, shareable URL
-
-**Goal:** Publish your work online and make it accessible to the world.
 
 ---
 
-## Deliverables
+## 🚀 Live Demo
+🔗 [View Live Site Here](https://your-netlify-link.netlify.app)
 
-1. A GitHub repository containing:
-
-   * Your complete project code, properly organized
-   * A `README.md` file explaining your project purpose, structure, and live URL
-2. A live deployed website (hosted via GitHub Pages, Netlify, or Vercel)
+> Replace `https://your-netlify-link.netlify.app` with your actual Netlify (or GitHub Pages) deployment link.
 
 ---
 
-## Outcome
+## 🚀 Getting Started
 
-* Clarity and thoroughness of planning documentation
-* Proper use of HTML5, CSS, and JavaScript across multiple pages
-* Responsive and accessible design
-* Clean, well-organized, and commented code
-* Successful live deployment with a working link
-* Evidence of following best practices
+### 1. Clone the repo
+```bash
+git clone https://github.com/Ngaukon/kikosi-hotel.git
+cd kikosi-hotel
+
+## 🛠 Technologies Used
+- **HTML5** – Semantic structure
+- **CSS3** – Responsive design, styling, animations
+- **JavaScript (ES6)** – Menu toggle, form validation
+
+---
+
+## ✨ Future Improvements
+- Add backend (Node.js / Django / PHP) for booking system
+- Integrate Google Maps on Contact page
+- Add image lightbox for Gallery
+- Improve accessibility (ARIA labels, alt text review)
+
+---
+
+## 👨‍💻 Author
+Developed by **Joseph Ngaukon**
+Location: *Kenya*
